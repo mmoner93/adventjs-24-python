@@ -1,7 +1,14 @@
+"""
+This module contains tests for the prepare_gifts function from the solutions.day1.ad_1 module.
+"""
+
 import pytest
 from solutions.day1.ad_1 import prepare_gifts
 
-def test_prepare_gifts():
+def test_prepare_gifts() -> None:
+    """
+    Test the prepare_gifts function with various test cases.
+    """
     assert prepare_gifts([3, 1, 2, 3, 4, 2, 5]) == [1, 2, 3, 4, 5]
     assert prepare_gifts([6, 5, 5, 5, 5]) == [5, 6]
     assert prepare_gifts([]) == []
