@@ -52,3 +52,4 @@ pytest
 ## Retos
 
 - [Día 1 - Primer regalo repetido](https://adventjs.dev/es/challenges/2024/1)
+- [Emarcando nombres](https://adventjs.dev/es/challenges/2024/2)
