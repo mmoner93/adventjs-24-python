@@ -54,3 +54,4 @@ pytest
 - [Día 1 - Primer regalo repetido](https://adventjs.dev/es/challenges/2024/1)
 - [Día 2 - Emarcando nombres](https://adventjs.dev/es/challenges/2024/2)
 - [Día 3 - Organizando el inventario](https://adventjs.dev/es/challenges/2024/3)
+- [Día 4 - Decorando el árbol de navidad](https://adventjs.dev/es/challenges/2024/4)

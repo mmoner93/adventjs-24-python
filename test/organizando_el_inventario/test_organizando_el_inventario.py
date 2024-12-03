@@ -6,10 +6,7 @@ import pytest
 from solutions.organizando_el_inventario.main import organizeInventory
 
 
-def test_organize_inventory():
-    """
-    Test the organize_inventory function with various test cases.
-    """
+def test_organize_inventory_1():
     inventory = [
         {"name": "doll", "quantity": 5, "category": "toys"},
         {"name": "car", "quantity": 3, "category": "toys"},
@@ -23,6 +20,7 @@ def test_organize_inventory():
     }
     assert organizeInventory(inventory) == expected_result
 
+def test_organize_inventory_2():
     inventory2 = [
         {"name": "book", "quantity": 10, "category": "education"},
         {"name": "book", "quantity": 5, "category": "education"},
