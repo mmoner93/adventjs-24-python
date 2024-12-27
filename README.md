@@ -55,3 +55,4 @@ pytest
 - [Día 2 - Emarcando nombres](https://adventjs.dev/es/challenges/2024/2)
 - [Día 3 - Organizando el inventario](https://adventjs.dev/es/challenges/2024/3)
 - [Día 4 - Decorando el árbol de navidad](https://adventjs.dev/es/challenges/2024/4)
+- [Día 5 - Emparejando botas](https://adventjs.dev/es/challenges/2024/5)
