@@ -4,7 +4,7 @@ from the solutions.decorando_el_arbol.main module.
 """
 
 import pytest
-from solutions.decorando_el_arbol.main import createXmasTree
+from solutions.day_4_decorando_el_arbol import createXmasTree
 
 
 def test_create_xmas_tree_5():

@@ -3,7 +3,7 @@ Description: This file has the tests for the organizeInventory function.
 """
 
 import pytest
-from solutions.organizando_el_inventario.main import organizeInventory
+from solutions.day_3_organizando_el_inventario import organizeInventory
 
 
 def test_organize_inventory_1():

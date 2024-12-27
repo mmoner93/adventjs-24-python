@@ -4,7 +4,7 @@ from the solutions.primer_regalo_repetido.main module.
 """
 
 import pytest
-from solutions.primer_regalo_repetido.main import prepare_gifts
+from solutions.day_1_primer_regalo_repetido import prepare_gifts
 
 
 def test_prepare_gifts_1() -> None:

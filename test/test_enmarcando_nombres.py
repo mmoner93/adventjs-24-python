@@ -4,7 +4,7 @@ from the solutions.enmarcando_nombres.main module.
 """
 
 import pytest
-from solutions.enmarcando_nombres.main import createFrame
+from solutions.day_2_enmarcando_nombres import createFrame
 
 
 def test_create_frame_1() -> None:
