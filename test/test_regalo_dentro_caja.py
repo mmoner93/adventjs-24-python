@@ -16,3 +16,7 @@ def test_regalo_dentro_caja_3():
 
 def test_regalo_dentro_caja_4():
     assert in_box(["#####", "#   #", "#   #", "#   #", "#####"]) == False
+
+
+if __name__ == "__main__":
+    pytest.main()
