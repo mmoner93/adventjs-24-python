@@ -57,3 +57,5 @@ pytest
 - [Día 4 - Decorando el árbol de navidad](https://adventjs.dev/es/challenges/2024/4)
 - [Día 5 - Emparejando botas](https://adventjs.dev/es/challenges/2024/5)
 - [Día 6 - ¿Regalo dentro de la caja?](https://adventjs.dev/es/challenges/2024/6)
+- [Día 7 - El ataque del grinch](https://adventjs.dev/es/challenges/2024/7)
+- [Día 8 - Carrera de renos](https://adventjs.dev/es/challenges/2024/8)
